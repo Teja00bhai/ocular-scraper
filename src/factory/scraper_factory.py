@@ -6,7 +6,8 @@ from typing import Dict, Any, Optional, Type
 
 from src.scrapers.base_scraper import BaseScraper
 from src.scrapers.zepto_scraper import ZeptoScraper
-from src.scrapers.blinkit_scraper import BlinkitScraper
+# Uncomment when implemented
+# from src.scrapers.blinkit_scraper import BlinkitScraper
 
 # Configure logging
 logger = logging.getLogger("ScraperFactory")

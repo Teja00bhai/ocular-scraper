@@ -19,7 +19,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("ExampleUsage")
 
-async def scrape_multiple_platforms(keywords, platforms=None):
+async def scrape_multiple_platforms(keywords, platforms=None, location=None):
     """
     Example of scraping multiple platforms for the same keywords
     
@@ -43,7 +43,8 @@ async def scrape_multiple_platforms(keywords, platforms=None):
             platform=platform,
             headless=True,
             timeout=30000,
-            output_dir="src/outputs"
+            output_dir="src/outputs",
+            location=location
         )
         
         if not scraper:
@@ -126,7 +127,14 @@ async def main():
     # results = await scrape_multiple_platforms(keywords)
     
     # Example 2: Scrape specific platforms
-    results = await scrape_multiple_platforms(keywords, ["zepto", "blinkit"])
+    # results = await scrape_multiple_platforms(keywords, ["zepto"])
+    
+    # Example 3: Scrape with location parameter
+    results = await scrape_multiple_platforms(
+        keywords=["milk"], 
+        platforms=["zepto"],
+        location="Mumbai, Maharashtra"
+    )
     
     # Print results
     print_results(results)

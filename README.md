@@ -13,7 +13,8 @@ A modern browser automation tool for extracting product data from Zepto's backen
 ### Features
 
 - Automated extraction of product data from Zepto search results
-- Multi-keyword and multi-region support
+- Multi-keyword search support
+- Automated location selection for delivery address
 - Position-weighted Share of Voice (SOV) calculation
 - Detailed product information extraction (pricing, ratings, availability)
 - Sponsored product identification
@@ -67,8 +68,9 @@ python -m playwright install chromium
 # Basic usage with default platform (Zepto) and keywords
 python quickcomm_scraper.py --keywords "milk,bread"
 
-# Specify custom regions (pincodes)
-python quickcomm_scraper.py --keywords "milk,bread" --regions "560001,400001"
+
+# Set delivery location
+python quickcomm_scraper.py --keywords "milk,bread" --location "Mumbai, Maharashtra"
 
 # Specify output directory
 python quickcomm_scraper.py --keywords "milk,bread" --output-dir "custom_outputs"

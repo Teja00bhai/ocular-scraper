@@ -59,13 +59,12 @@ class BaseScraper(ABC):
         pass
     
     @abstractmethod
-    async def search_for_keyword(self, keyword: str, region: Optional[str] = None) -> Dict[str, Any]:
+    async def search_for_keyword(self, keyword: str) -> Dict[str, Any]:
         """
         Search for a keyword on the platform
         
         Args:
             keyword: Search term
-            region: Optional region/location code
             
         Returns:
             Dict containing search results data
