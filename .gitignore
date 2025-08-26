@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+src/logs/archive/
+
+# Output files
+src/outputs/archive/
+
+# Screenshots (optional, uncomment if you want to ignore all screenshots)
+# *.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment configuration
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib

@@ -1,0 +1,362 @@
+{
+  "layout": [
+    {
+      "widgetId": "TITLE_WIDGET",
+      "widgetName": "SEARCH_TITLE_WIDGET",
+      "data": {
+        "fetchMode": "local",
+        "resolver": {
+          "useLocal": false,
+          "type": "title",
+          "data": {
+            "items": [],
+            "title": "Could not find any products for \"house cleaners\"",
+            "queryTitle": "",
+            "searchQuery": "house cleaners",
+            "replacingTerm": "",
+            "queryId": null,
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "viewMeta": {
+        "aspectRatio": 3.33,
+        "paddingTop": 1,
+        "paddingBottom": 1,
+        "paddingLeft": 12,
+        "paddingRight": 12,
+        "backgroundColor": "#FFFFFF",
+        "adContainer": {
+          "marginHorizontal": 0,
+          "overflow": "",
+          "borderRadius": 0,
+          "backgroundColor": "",
+          "paddingBottom": 0
+        },
+        "productsList": {
+          "paddingHorizontal": 0,
+          "marginBottom": 0,
+          "separator": 0
+        },
+        "adAsset": {},
+        "backgroundGradient": {
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "borderWidth": 0,
+        "borderColor": "",
+        "highlightColor": "",
+        "titleStyle": null,
+        "itemSpacing": 0,
+        "cardStyle": null,
+        "curveIcon": null,
+        "curveIconV2": null,
+        "headerStyle": null,
+        "listStyle": null,
+        "padding": null,
+        "itemPadding": null,
+        "imagePadding": null,
+        "titleIconImage": null,
+        "bodyStyle": null,
+        "subTitleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "titleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "tag": {
+          "text": "",
+          "variant": "",
+          "style": {
+            "color": "",
+            "paddingHorizontal": 0,
+            "paddingVertical": 0,
+            "borderWidth": 0,
+            "borderRadius": 0,
+            "borderColor": "",
+            "backgroundColor": "",
+            "lineHeight": 0
+          }
+        },
+        "card": {
+          "borderWidth": 0,
+          "borderRadius": 0,
+          "borderColor": "",
+          "backgroundColor": "",
+          "backgroundMode": "",
+          "firstColor": "",
+          "secondColor": "",
+          "padding": null
+        },
+        "overlayIconStyles": {},
+        "imageContainerStyle": {},
+        "productIconStyles": {},
+        "text": {
+          "unselectedColor": "",
+          "selectedColor": "",
+          "selectedVariant": "",
+          "unselectedVariant": "",
+          "selectedBackgroundColor": "",
+          "unselectedBackgroundColor": "",
+          "textSize": 0
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    },
+    {
+      "widgetId": "HOME_FOOTER",
+      "widgetName": "SEARCH_FOOTER",
+      "data": {
+        "fetchMode": "",
+        "resolver": {
+          "useLocal": false,
+          "type": "",
+          "data": {
+            "items": null,
+            "title": null,
+            "queryId": null,
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    }
+  ],
+  "footer": {
+    "widget": {
+      "widgetId": "",
+      "widgetName": "",
+      "data": {
+        "fetchMode": "",
+        "resolver": {
+          "useLocal": false,
+          "type": "",
+          "data": {
+            "items": null,
+            "title": null,
+            "queryId": null,
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    }
+  },
+  "algoliaQueryID": "",
+  "showCigaretteBanner": false,
+  "pageProductCount": 0,
+  "totalProductCount": 0,
+  "currentPage": 0,
+  "hasReachedEnd": true,
+  "userSessionId": "c1b1ad67-e195-4f6f-ad61-531723638d72",
+  "algoliaTimeOut": false,
+  "algoliaTypoTolerance": false,
+  "filters": {
+    "activeFilters": {
+      "brands": null,
+      "l3Categories": null
+    },
+    "allFilters": {
+      "brands": null,
+      "l3Categories": null
+    },
+    "topBrands": null
+  },
+  "showTobaccoConsentPopup": false,
+  "meta": {
+    "buying_theme_meta": {
+      "is_l3_theme_enabled_query": false,
+      "is_gpt_theme_enabled_query": false,
+      "is_pagination_enabled": false,
+      "l3_theme_not_shown_reason": "THEME_BASED_EXPERIENCE Compatible Component Missing",
+      "gpt_theme_not_shown_reason": "THEME_BASED_EXPERIENCE Compatible Component Missing",
+      "only_span_match_products": false
+    },
+    "qrl_rerank_done": false,
+    "qrl_rerank_not_done_reason": "ProductCountCriteriaFailed",
+    "qrl_rerank_source": "",
+    "qrl_reranking_list_product_count": 0,
+    "qrl_search_product_count": 0,
+    "qrl_common_product_count": 0,
+    "related_products_enabled": false,
+    "related_products_search_term_default": "house cleaners",
+    "total_organic_products": 0,
+    "oos_organic_products": 0,
+    "instock_organic_products": 0,
+    "total_related_products": 0,
+    "oos_related_products": 0,
+    "instock_related_products": 0,
+    "total_results": 0,
+    "total_oos_results": 0,
+    "total_instock_results": 0,
+    "related_products_reason": "CompatibleComponentsNotFound",
+    "qcl_correction_not_done_reason": "CompatibleComponentsNotFound",
+    "qcl_correction_done_v3": false,
+    "previously_bought_not_done_reason": "UserNotFound",
+    "inhouse_search_done": false,
+    "plp_primary_category_name_from_recall": "",
+    "plp_primary_category_mapping": "",
+    "plp_subcat_listing_logic": "",
+    "plp_experience_shown": false,
+    "plp_experience_not_shown_reason": "PlpExperimentNotEnabled",
+    "relevance_v2": {},
+    "filtering_not_shown_reason": "RelevanceQueryNotInMongo",
+    "relevance_variant_selected": 2,
+    "query_intent_done": true,
+    "ds_basket_building_flag": true,
+    "filter_mode": 0,
+    "l3_span_results_count": 0,
+    "l3_partial_results_count": 0,
+    "l3_other_results_count": 0,
+    "l3_oos_span_results_count": 0,
+    "l3_oos_partial_results_count": 0,
+    "l3_oos_other_results_count": 0,
+    "l3_instock_span_results_count": 0,
+    "l3_instock_partial_results_count": 0,
+    "l3_instock_other_results_count": 0,
+    "recommendations_instrumentation_info": {
+      "query_level_sku_recommendations_instrumentation_info": {},
+      "cross_sell_widget_instrumentation_info": {},
+      "pre_built_cart_recommendations_instrumentation_info": {
+        "is_pre_built_cart_recommendations_done": false,
+        "pre_built_cart_recommendations_not_done_reason": "ExperimentationClientError"
+      }
+    },
+    "is_scoped_search_enabled": false,
+    "scope_category": "",
+    "scope_subcategory": "",
+    "scoped_search_not_enabled_reason": "",
+    "oos_text_meta": "",
+    "source_search_term": "house cleaners",
+    "recall_type_detail": {
+      "recall_type": "ZERO_RECALL",
+      "recall_display_title": "Could not find any products for \"house cleaners\""
+    },
+    "semantic_qrl_rerank_done": false,
+    "semantic_qrl_rerank_not_done_reason": "ProductCountCriteriaFailed",
+    "semantic_qrl_rerank_source": "",
+    "semantic_qrl_reranking_list_product_count": 0,
+    "semantic_qrl_search_product_count": 0,
+    "semantic_qrl_common_product_count": 0,
+    "semantic_recall_source_key": "",
+    "category_cohort_experiment_instrumentation_info": {
+      "cohortRankingNotEnabledReason": "Relevance Info is not present for this query",
+      "categoryBasedRankingEnabled": false,
+      "isAtcDone": true
+    },
+    "meds_with_similar_salts_info": {},
+    "is_liquidation_done": false,
+    "liquidation_not_done_reason": "LiquidationL1NotAllowed",
+    "l3_understanding_meta": {
+      "l3_understanding_not_enabled_reason": "CompatibleComponentsNotFound"
+    },
+    "product_grid_meta_info": {
+      "isProductGridFeatureEnabled": false,
+      "productGridFeatureNotEnabledReason": "CompatibleComponentsNotFound"
+    },
+    "god_products_and_buy_again_boost_info": {
+      "isZeptoNowRequest": false
+    },
+    "qrl_rerank_info_v2": {
+      "default_qrl_rerank_done": false,
+      "explore_qrl_rerank_done": false,
+      "vector_qrl_rerank_done": false,
+      "qrl_default_rerank_not_done_reason": "RankerNotApplicableForV2Flow",
+      "qrl_explore_rerank_not_done_reason": "RankerNotApplicableForV2Flow",
+      "qrl_vector_rerank_not_done_reason": "RankerNotApplicableForV2Flow",
+      "qrl_default_rerank_source": "query_reranking_rank26_variant",
+      "qrl_explore_rerank_source": "query_reranking_rank26_variant",
+      "qrl_vector_rerank_source": "",
+      "qrl_default_reranking_list_product_count": 0,
+      "qrl_explore_reranking_list_product_count": 0,
+      "qrl_vector_reranking_list_product_count": 0,
+      "qrl_default_search_product_count": 0,
+      "qrl_explore_search_product_count": 0,
+      "qrl_vector_search_product_count": 0,
+      "qrl_common_default_product_count": 0,
+      "qrl_common_explore_product_count": 0,
+      "qrl_common_vector_product_count": 0
+    },
+    "model_qrl_info": {
+      "qrl_rerank_done": false,
+      "qrl_rerank_source": "",
+      "qrl_products_rank_changed_count": 0,
+      "model_output_recall_count": 0,
+      "model_input_recall_count": 0,
+      "market_place": ""
+    },
+    "unserviceable_store_deboosting_not_enabled_reason": "User is not part of experiment",
+    "store_stress_info": {
+      "storeIdUsedStressRanking": "",
+      "storeStressRankingNotEnabledReason": "ExperimentationClientError",
+      "storeStressRankingEnabled": false,
+      "rankingVariant": null,
+      "storeStressInCache": 0,
+      "storeStressEnum": ""
+    },
+    "pt_and_attributes_meta": {
+      "search_term_contains_attributes": 0,
+      "search_term_number_of_attributes": 0,
+      "search_term_PT": null,
+      "search_term_brand": null,
+      "search_term_contains_brand": 0,
+      "search_term_attributes": null,
+      "search_term_attribute_values": null
+    },
+    "vip_deals_meta": {
+      "total_vip_deal_atlas_boosted_cnt": 0
+    },
+    "autosuggestion_live_ranker_meta": {
+      "ctr_ranking_done": false,
+      "cvr_ranking_done": false
+    },
+    "vip_deals_horizontal_card_widget_instrumentation_info": {
+      "deal_cards_loaded": 0,
+      "vip_deal_horizontal_card_not_shown_reason": "CompatibleComponentsNotFound"
+    },
+    "special_event_instrumentation_info": {
+      "events": null,
+      "special_events_enabled": false,
+      "special_events_not_enabled_reason": "CompatibleComponentsNotFound"
+    }
+  },
+  "pageType": "normal",
+  "isProductGridEnabled": false
+}

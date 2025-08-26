@@ -1,0 +1,658 @@
+{
+  "layout": [
+    {
+      "widgetId": "AUTO_SUGGEST_V2",
+      "widgetName": "AUTO_SUGGEST_SEARCH",
+      "data": {
+        "fetchMode": "local",
+        "resolver": {
+          "useLocal": false,
+          "type": "auto_suggest",
+          "data": {
+            "items": [
+              {
+                "objectId": "milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "1r9PygNgnyaR08FZAHTSF1bDd07itdF9Y.jpeg",
+                  "path": "inventory/product/1638f685-befc-478e-95f8-2d92213866e7-1r9PygNgnyaR08FZAHTSF1bDd07itdF9Y.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499968,
+                "score": 120000
+              },
+              {
+                "objectId": "nandini milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Nandini milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "nandini_milk.png",
+                  "path": "inventory/banner/0c8d09f1-42e2-42c8-aed6-db4521ada33a.png",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499993,
+                "score": 70710
+              },
+              {
+                "objectId": "milk bread:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Milk bread",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "861810d9-2c60-4920-aa8b-34b522213bed.jpeg",
+                  "path": "cms/product_variant/861810d9-2c60-4920-aa8b-34b522213bed.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499935,
+                "score": 70710
+              },
+              {
+                "objectId": "heritage milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Heritage milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "1HbpLp0IXXn02KV9K-iE5SENOxIr5WYd1.jpeg",
+                  "path": "inventory/product/afbe9727-f2bd-47c1-b32d-0b22eb1e5491-1HbpLp0IXXn02KV9K-iE5SENOxIr5WYd1.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499923,
+                "score": 70710
+              },
+              {
+                "name": "Biryani",
+                "deeplinkUrl": "https://www.zeptonow.com/RecipeDetails?name=biryani&recipeId=37633037-3532-3938-6435-333231656163",
+                "subTitle": "Cook In Minutes",
+                "type": "pip_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": null,
+                  "media_type": "IMAGE",
+                  "name": "icon",
+                  "path": "web/recipes/biryani.png",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 0,
+                "score": 0
+              }
+            ],
+            "title": null,
+            "queryId": null,
+            "autoSuggestSource": "corpus",
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "viewMeta": {
+        "aspectRatio": 3.33,
+        "paddingTop": 16,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "adContainer": {
+          "marginHorizontal": 0,
+          "overflow": "",
+          "borderRadius": 0,
+          "backgroundColor": "",
+          "paddingBottom": 0
+        },
+        "productsList": {
+          "paddingHorizontal": 0,
+          "marginBottom": 0,
+          "separator": 0
+        },
+        "adAsset": {},
+        "backgroundGradient": {
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "borderWidth": 0,
+        "borderColor": "",
+        "highlightColor": "",
+        "titleStyle": null,
+        "itemSpacing": 0,
+        "cardStyle": null,
+        "curveIcon": null,
+        "curveIconV2": null,
+        "headerStyle": null,
+        "listStyle": null,
+        "padding": null,
+        "itemPadding": null,
+        "imagePadding": null,
+        "titleIconImage": null,
+        "bodyStyle": null,
+        "subTitleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "titleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "tag": {
+          "text": "",
+          "variant": "",
+          "style": {
+            "color": "",
+            "paddingHorizontal": 0,
+            "paddingVertical": 0,
+            "borderWidth": 0,
+            "borderRadius": 0,
+            "borderColor": "",
+            "backgroundColor": "",
+            "lineHeight": 0
+          }
+        },
+        "card": {
+          "borderWidth": 0,
+          "borderRadius": 0,
+          "borderColor": "",
+          "backgroundColor": "",
+          "backgroundMode": "",
+          "firstColor": "",
+          "secondColor": "",
+          "padding": null
+        },
+        "overlayIconStyles": {},
+        "imageContainerStyle": {},
+        "productIconStyles": {},
+        "text": {
+          "unselectedColor": "",
+          "selectedColor": "",
+          "selectedVariant": "",
+          "unselectedVariant": "",
+          "selectedBackgroundColor": "",
+          "unselectedBackgroundColor": "",
+          "textSize": 0
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    },
+    {
+      "widgetId": "AUTO_SUGGEST_V2",
+      "widgetName": "AUTO_SUGGEST_SEARCH_2",
+      "data": {
+        "fetchMode": "local",
+        "resolver": {
+          "useLocal": false,
+          "type": "auto_suggest",
+          "data": {
+            "items": [
+              {
+                "objectId": "arokya milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Arokya milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "1rzX7Gqa_MU2H4hmwSOKWsXJWX-foxlzu.jpeg",
+                  "path": "inventory/product/edc180a1-cb0b-4824-b10e-1c306f1aacae-1rzX7Gqa_MU2H4hmwSOKWsXJWX-foxlzu.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499749,
+                "score": 70710
+              },
+              {
+                "objectId": "akshayakalpa milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Akshayakalpa milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "e7d0ce71-3108-461e-84d4-c7d04e6f4f40.jpeg",
+                  "path": "cms/product_variant/e7d0ce71-3108-461e-84d4-c7d04e6f4f40.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499731,
+                "score": 70710
+              },
+              {
+                "objectId": "coconut milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Coconut milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "d6143a14-b90a-4e1d-a42c-bdbf46d2ba1f.jpeg",
+                  "path": "cms/product_variant/d6143a14-b90a-4e1d-a42c-bdbf46d2ba1f.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499606,
+                "score": 70710
+              },
+              {
+                "objectId": "slim milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Slim milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "1fbd0e59-6e93-43ea-8353-0b43ca8a139e.jpeg",
+                  "path": "cms/product_variant/1fbd0e59-6e93-43ea-8353-0b43ca8a139e.jpeg",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499564,
+                "score": 70710
+              },
+              {
+                "objectId": "toned milk:MANUAL:8ed26cb7-eb7d-4b7b-8d8c-3e93d5855bdd",
+                "name": "Toned milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "search_autosuggestion",
+                "iconAttachmentObject": {
+                  "height": 24,
+                  "hide_padding": null,
+                  "id": "",
+                  "lottie_path": "None",
+                  "media_type": "IMAGE",
+                  "name": "e1447e4d-c3e7-45db-87c4-1e1a69101289.png",
+                  "path": "cms/product_variant/e1447e4d-c3e7-45db-87c4-1e1a69101289.png",
+                  "video_path": null,
+                  "width": 24,
+                  "sizeInBytes": 0
+                },
+                "cityIntents": 1499401,
+                "score": 70710
+              },
+              {
+                "name": "milk",
+                "deeplinkUrl": "",
+                "subTitle": "",
+                "type": "see_all_results",
+                "iconAttachmentObject": null,
+                "cityIntents": 0,
+                "score": 0
+              }
+            ],
+            "title": null,
+            "queryId": null,
+            "autoSuggestSource": "corpus",
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "viewMeta": {
+        "aspectRatio": 3.33,
+        "paddingTop": 16,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "adContainer": {
+          "marginHorizontal": 0,
+          "overflow": "",
+          "borderRadius": 0,
+          "backgroundColor": "",
+          "paddingBottom": 0
+        },
+        "productsList": {
+          "paddingHorizontal": 0,
+          "marginBottom": 0,
+          "separator": 0
+        },
+        "adAsset": {},
+        "backgroundGradient": {
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "borderWidth": 0,
+        "borderColor": "",
+        "highlightColor": "",
+        "titleStyle": null,
+        "itemSpacing": 0,
+        "cardStyle": null,
+        "curveIcon": null,
+        "curveIconV2": null,
+        "headerStyle": null,
+        "listStyle": null,
+        "padding": null,
+        "itemPadding": null,
+        "imagePadding": null,
+        "titleIconImage": null,
+        "bodyStyle": null,
+        "subTitleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "titleLeadingIconImage": {
+          "id": "",
+          "name": "",
+          "path": "",
+          "lottiePath": "",
+          "videoPath": "",
+          "mediaType": "",
+          "width": 0,
+          "height": 0,
+          "hidePadding": false
+        },
+        "tag": {
+          "text": "",
+          "variant": "",
+          "style": {
+            "color": "",
+            "paddingHorizontal": 0,
+            "paddingVertical": 0,
+            "borderWidth": 0,
+            "borderRadius": 0,
+            "borderColor": "",
+            "backgroundColor": "",
+            "lineHeight": 0
+          }
+        },
+        "card": {
+          "borderWidth": 0,
+          "borderRadius": 0,
+          "borderColor": "",
+          "backgroundColor": "",
+          "backgroundMode": "",
+          "firstColor": "",
+          "secondColor": "",
+          "padding": null
+        },
+        "overlayIconStyles": {},
+        "imageContainerStyle": {},
+        "productIconStyles": {},
+        "text": {
+          "unselectedColor": "",
+          "selectedColor": "",
+          "selectedVariant": "",
+          "unselectedVariant": "",
+          "selectedBackgroundColor": "",
+          "unselectedBackgroundColor": "",
+          "textSize": 0
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    }
+  ],
+  "footer": {
+    "widget": {
+      "widgetId": "",
+      "widgetName": "",
+      "data": {
+        "fetchMode": "",
+        "resolver": {
+          "useLocal": false,
+          "type": "",
+          "data": {
+            "items": null,
+            "title": null,
+            "queryId": null,
+            "tabIdStoreProductMap": {},
+            "subTitle": null
+          }
+        }
+      },
+      "actions": null,
+      "analyticsMeta": {
+        "meta": {}
+      },
+      "widgetType": ""
+    }
+  },
+  "algoliaQueryID": "",
+  "showCigaretteBanner": false,
+  "pageProductCount": 0,
+  "totalProductCount": 0,
+  "currentPage": 0,
+  "hasReachedEnd": true,
+  "userSessionId": "",
+  "algoliaTimeOut": false,
+  "algoliaTypoTolerance": false,
+  "filters": {
+    "activeFilters": {
+      "brands": null,
+      "l3Categories": null
+    },
+    "allFilters": {
+      "brands": null,
+      "l3Categories": null
+    },
+    "topBrands": null
+  },
+  "showTobaccoConsentPopup": false,
+  "meta": {
+    "buying_theme_meta": {
+      "is_l3_theme_enabled_query": false,
+      "is_gpt_theme_enabled_query": false,
+      "is_pagination_enabled": false,
+      "only_span_match_products": false
+    },
+    "qrl_rerank_done": false,
+    "qrl_rerank_source": "",
+    "qrl_reranking_list_product_count": 0,
+    "qrl_search_product_count": 0,
+    "qrl_common_product_count": 0,
+    "related_products_enabled": false,
+    "total_organic_products": 0,
+    "oos_organic_products": 0,
+    "instock_organic_products": 0,
+    "total_related_products": 0,
+    "oos_related_products": 0,
+    "instock_related_products": 0,
+    "total_results": 0,
+    "total_oos_results": 0,
+    "total_instock_results": 0,
+    "qcl_correction_not_done_reason": "CompatibleComponentsNotFound",
+    "qcl_correction_done_v3": false,
+    "search_source": "Search-Platform",
+    "inhouse_search_done": false,
+    "inhouse_autosuggestion_index_used": "autosuggestioncity_v2",
+    "plp_primary_category_name_from_recall": "",
+    "plp_primary_category_mapping": "",
+    "plp_subcat_listing_logic": "",
+    "plp_experience_shown": false,
+    "plp_experience_not_shown_reason": "",
+    "relevance_v2": {},
+    "query_intent_done": false,
+    "ds_basket_building_flag": false,
+    "filter_mode": 0,
+    "l3_span_results_count": 0,
+    "l3_partial_results_count": 0,
+    "l3_other_results_count": 0,
+    "l3_oos_span_results_count": 0,
+    "l3_oos_partial_results_count": 0,
+    "l3_oos_other_results_count": 0,
+    "l3_instock_span_results_count": 0,
+    "l3_instock_partial_results_count": 0,
+    "l3_instock_other_results_count": 0,
+    "recommendations_instrumentation_info": {},
+    "is_scoped_search_enabled": false,
+    "scope_category": "",
+    "scope_subcategory": "",
+    "scoped_search_not_enabled_reason": "",
+    "oos_text_meta": "",
+    "source_search_term": "milk",
+    "recall_type_detail": {
+      "recall_type": "",
+      "recall_display_title": ""
+    },
+    "semantic_qrl_rerank_done": false,
+    "semantic_qrl_rerank_source": "",
+    "semantic_qrl_reranking_list_product_count": 0,
+    "semantic_qrl_search_product_count": 0,
+    "semantic_qrl_common_product_count": 0,
+    "semantic_recall_source_key": "",
+    "category_cohort_experiment_instrumentation_info": {
+      "categoryBasedRankingEnabled": false,
+      "isAtcDone": false
+    },
+    "meds_with_similar_salts_info": {},
+    "is_liquidation_done": false,
+    "l3_understanding_meta": {},
+    "product_grid_meta_info": {
+      "isProductGridFeatureEnabled": false
+    },
+    "god_products_and_buy_again_boost_info": {
+      "isZeptoNowRequest": false
+    },
+    "qrl_rerank_info_v2": {
+      "default_qrl_rerank_done": false,
+      "explore_qrl_rerank_done": false,
+      "vector_qrl_rerank_done": false,
+      "qrl_default_rerank_source": "",
+      "qrl_explore_rerank_source": "",
+      "qrl_vector_rerank_source": "",
+      "qrl_default_reranking_list_product_count": 0,
+      "qrl_explore_reranking_list_product_count": 0,
+      "qrl_vector_reranking_list_product_count": 0,
+      "qrl_default_search_product_count": 0,
+      "qrl_explore_search_product_count": 0,
+      "qrl_vector_search_product_count": 0,
+      "qrl_common_default_product_count": 0,
+      "qrl_common_explore_product_count": 0,
+      "qrl_common_vector_product_count": 0
+    },
+    "model_qrl_info": {
+      "qrl_rerank_done": false,
+      "qrl_rerank_source": "",
+      "qrl_products_rank_changed_count": 0,
+      "model_output_recall_count": 0,
+      "model_input_recall_count": 0,
+      "market_place": ""
+    },
+    "store_stress_info": {
+      "storeIdUsedStressRanking": "",
+      "storeStressRankingEnabled": false,
+      "rankingVariant": null,
+      "storeStressInCache": 0,
+      "storeStressEnum": ""
+    },
+    "pt_and_attributes_meta": {
+      "search_term_contains_attributes": 0,
+      "search_term_number_of_attributes": 0,
+      "search_term_PT": null,
+      "search_term_brand": null,
+      "search_term_contains_brand": 0,
+      "search_term_attributes": null,
+      "search_term_attribute_values": null
+    },
+    "vip_deals_meta": {
+      "total_vip_deal_atlas_boosted_cnt": 0
+    },
+    "autosuggestion_live_ranker_meta": {
+      "ctr_ranking_done": false,
+      "cvr_ranking_done": false
+    },
+    "vip_deals_horizontal_card_widget_instrumentation_info": {
+      "deal_cards_loaded": 0
+    },
+    "special_event_instrumentation_info": {
+      "events": null,
+      "special_events_enabled": false
+    }
+  },
+  "suggestionsOnSeparatePage": true,
+  "autoSuggestSuggestionCount": 10,
+  "isProductGridEnabled": false
+}
